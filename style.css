@@ -1,0 +1,20 @@
+h1{
+    color: black;
+    background-color: rgb(43, 168, 226);
+}
+body{
+    color: rgb(238, 237, 238);
+    background-color: rgb(7, 46, 46);
+}
+img{
+    width: auto;
+    display: block;
+    border-radius: 10px;
+    text-align: space-between;
+}
+p{
+    text-align: center;
+}
+form{ 
+    align-items: center;
+}
